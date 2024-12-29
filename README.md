@@ -45,14 +45,10 @@
   <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=Long104&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Long104&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  </div>
 
-  <!-- GIF Section -->
-  <div>
-    <img src="https://github.com/user-attachments/assets/dee111be-2c1d-4dc1-ab76-5cd0077f6e5a" alt="kai-shimada-hes-balding" height="150" />
+  <img src="https://github.com/user-attachments/assets/dee111be-2c1d-4dc1-ab76-5cd0077f6e5a" alt="kai-shimada-hes-balding" height="150" />
   </div>
 </div>
-
 
 
 <br clear="both">
