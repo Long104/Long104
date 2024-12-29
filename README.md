@@ -34,19 +34,23 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<!-- Main Container -->
+<div align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
+  <!-- GitHub Stats -->
   <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=Long104&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Long104&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  </div>
 
-<div>
-  
-![kai-shimada-hes-balding](https://github.com/user-attachments/assets/dee111be-2c1d-4dc1-ab76-5cd0077f6e5a)
+  <!-- GIF Section -->
+  <div>
+    <img src="https://github.com/user-attachments/assets/dee111be-2c1d-4dc1-ab76-5cd0077f6e5a" alt="kai-shimada-hes-balding" height="150" />
+  </div>
 </div>
 
 
