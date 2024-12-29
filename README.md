@@ -40,13 +40,19 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Long104&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Long104&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <!-- Left Section -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Long104&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Long104&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  </div>
 
+  <!-- Right Section -->
+  <div>
+    <img src="https://github.com/user-attachments/assets/0ac05099-1ec9-4086-83e0-f7b24ba3407a" alt="kai-shimada-hes-balding" height="150" />
+  </div>
 </div>
 
-![kai-shimada-hes-balding](https://github.com/user-attachments/assets/0ac05099-1ec9-4086-83e0-f7b24ba3407a)
 
 
 <br clear="both">
