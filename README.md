@@ -46,24 +46,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Long104&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   </div>
 
-  <!-- Right Section -->
-  <div>
-    <img src="https://github.com/user-attachments/assets/0ac05099-1ec9-4086-83e0-f7b24ba3407a" alt="kai-shimada-hes-balding" height="150" />
-  </div>
-</div>
-
-  <!-- Right Section -->
-  <div>
-    <img src="https://github.com/user-attachments/assets/0ac05099-1ec9-4086-83e0-f7b24ba3407a" alt="kai-shimada-hes-balding" height="150" />
-  </div>
-</div>
-
-  <!-- Right Section -->
-  <div>
-    <img src="https://github.com/user-attachments/assets/0ac05099-1ec9-4086-83e0-f7b24ba3407a" alt="kai-shimada-hes-balding" height="150" />
-  </div>
-</div>
-
 
 
 <br clear="both">
