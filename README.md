@@ -39,13 +39,24 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!-- Left Section -->
-  <div>
+  <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=Long104&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Long104&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   </div>
+
+  <!-- Right Section -->
+  <div>
+    <img src="https://github.com/user-attachments/assets/0ac05099-1ec9-4086-83e0-f7b24ba3407a" alt="kai-shimada-hes-balding" height="150" />
+  </div>
+</div>
+
+  <!-- Right Section -->
+  <div>
+    <img src="https://github.com/user-attachments/assets/0ac05099-1ec9-4086-83e0-f7b24ba3407a" alt="kai-shimada-hes-balding" height="150" />
+  </div>
+</div>
 
   <!-- Right Section -->
   <div>
