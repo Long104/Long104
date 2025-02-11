@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm software developer from thailand</h1>
+<h1 align="center">Hi 👋, I'm a student who love coding from thailand</h1>
 <h3 align="center">hello</h3>
 
 - 📫 How to reach me **longpantorn@gmail.com**
 
 - ⚡ Fun fact **I love to play chess**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
