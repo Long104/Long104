@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm software developer from thailand</h1>
+
+Hi, I am a software developer from Thailand. I like building stuff that I want to use myself. One of my project call SenZen is a money management website I currently using. Building website is my specialty. In my free time, I enjoy playing chess and solving rubik cubes. Lately, I’ve been explore about AI integration and optimizing web apps for performance and scalability.
+
 - 🔭 I’m currently an IT university student
 
 - 🌱 I’m currently learning **Golang**
