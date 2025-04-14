@@ -4,7 +4,7 @@ Hi, I am a software developer from Thailand. I like building stuff that I want t
 
 - I’m currently an IT university student
 
-- I’m currently learning **Golang**
+- I’m currently learning **Golang, Nix**
 
 - All of my projects are available at [https://www.pantorn.me/](https://www.pantorn.me/)
 
