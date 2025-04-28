@@ -12,7 +12,7 @@ Hi, I am a software developer from Thailand. I like building stuff that I want t
 
 - Know about my experiences [https://resume.pantorn.me/](https://resume.pantorn.me/)
 
-- Fun fact **I love to play chess**
+- ⚡ Fun fact **I love to play chess ♟︎ and rubik **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
