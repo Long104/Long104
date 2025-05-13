@@ -5,7 +5,9 @@ Hi, I am a software developer from Thailand. I like building stuff that I want t
 - I’m currently an IT university student
 
 - I’m currently learning **Golang, Nix**
-
+  
+- I’m currently working on **MySpotifyTaste**
+   
 - All of my projects are available at [https://www.pantorn.me/](https://www.pantorn.me/)
 
 - How to reach me **longpantorn@gmail.com**
