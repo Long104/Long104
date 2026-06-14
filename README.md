@@ -11,11 +11,4 @@ chess player · rubik's cube solver · neovim user
 
 ───
 
-  senzen         → money management app i use daily
-  hidecolumn     → neovim plugin (hides columns and numbers)
-  vault-brain    → second brain i actually maintain
-  loop           → tui tool in go
-
-───
-
-  portfolio  ·  resume  ·  linkedin
+  [portfolio](https://pantorn.me)  ·  [resume](https://resume.pantorn.me)  ·  [linkedin](https://linkedin.com/in/pantorn-chuavallee-99a51a341)
