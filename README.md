@@ -11,4 +11,4 @@ chess player · rubik's cube solver · love to config
 
 ───
 
-  [portfolio](https://pantorn.me)  ·  [resume](https://resume.pantorn.me)  ·  [linkedin](https://linkedin.com/in/pantorn-chuavallee-99a51a341)
+  [portfolio](https://pantorn.site)  ·  [linkedin](https://www.linkedin.com/in/pantorn-chuavallee/)
