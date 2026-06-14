@@ -7,7 +7,7 @@ i build things i want to use — currently obsessed with web
 performance, ai integrations, and building the perfect money
 tracker.
 
-chess player · rubik's cube solver · neovim user
+chess player · rubik's cube solver · love to config
 
 ───
 
